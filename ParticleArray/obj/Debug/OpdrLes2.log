@@ -1,0 +1,11 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (obj\Debug\) contains files shared from another project (OpdrLes1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  ofApp.cpp
+c:\users\user\documents\of_v0.9.8_vs_release\apps\myapps\timvandenboomen\opdrles2\src\ofApp.h(22): error C2371: 'ofApp::particles': redefinition; different basic types (compiling source file src\main.cpp)
+  c:\users\user\documents\of_v0.9.8_vs_release\apps\myapps\timvandenboomen\opdrles2\src\ofApp.h(19): note: see declaration of 'ofApp::particles' (compiling source file src\main.cpp)
+c:\users\user\documents\of_v0.9.8_vs_release\apps\myapps\timvandenboomen\opdrles2\src\ofApp.h(22): error C2371: 'ofApp::particles': redefinition; different basic types (compiling source file src\ofApp.cpp)
+  c:\users\user\documents\of_v0.9.8_vs_release\apps\myapps\timvandenboomen\opdrles2\src\ofApp.h(19): note: see declaration of 'ofApp::particles' (compiling source file src\ofApp.cpp)
+src\ofApp.cpp(9): error C2227: left of '->init' must point to class/struct/union/generic type
+src\ofApp.cpp(17): error C2227: left of '->move' must point to class/struct/union/generic type
+src\ofApp.cpp(23): error C2227: left of '->draw' must point to class/struct/union/generic type
+src\ofApp.cpp(31): error C2227: left of '->init' must point to class/struct/union/generic type
