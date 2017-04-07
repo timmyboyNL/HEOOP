@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (obj\Debug\) contains files shared from another project (AdjustColoursSolvedRef.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  ofApp.cpp
+  Particle.cpp
+     Creating library bin\OpdrLes5_debug.lib and object bin\OpdrLes5_debug.exp
+  OpdrLes5.vcxproj -> C:\Users\User\Documents\of_v0.9.8_vs_release\apps\myApps\TimvandenBoomen\OpdrLes5\bin\OpdrLes5_debug.exe
+  OpdrLes5.vcxproj -> bin\OpdrLes5_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\User\Documents\of_v0.9.8_vs_release\export\vs\Win32\
