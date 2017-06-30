@@ -17,7 +17,7 @@ void ofApp::update() {
 		it++;
 	}
 
-	particleReaper();
+	particleKiller();
 }
 
 void ofApp::draw() {
@@ -40,11 +40,10 @@ void ofApp::keyPressed(int key) {
 		Particle part = Particle();
 		part.init();
 		particles.push_back(part);
-		//
 	}
 }
 
-void ofApp::particleReaper()
+void ofApp::particleKiller()
 {
 	vector<Particle>::iterator it = particles.begin();
 	while (it != particles.end()) {
@@ -58,8 +57,7 @@ void ofApp::particleReaper()
 			it++;
 		}
 	}
-}
-
+}// kreeg het niet werkend, wel nog een & er tussen gezet.
 void ofApp::setRandomColor(Particle& part) {
 	float random = ofRandom(10);
 	if (random > 3 && random < 7) {

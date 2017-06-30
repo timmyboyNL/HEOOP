@@ -3,7 +3,7 @@
   ofApp.cpp
   Particle.cpp
      Creating library bin\Particle1_debug.lib and object bin\Particle1_debug.exp
-  Particle1.vcxproj -> C:\Users\User\Documents\of_v0.9.8_vs_release\apps\myApps\TimvandenBoomen\Particle1\bin\Particle1_debug.exe
+  Particle1.vcxproj -> C:\Users\User\Documents\GitHub\HEOOP\Particle1\bin\Particle1_debug.exe
   Particle1.vcxproj -> bin\Particle1_debug.pdb (Full PDB)
   
   	                   9	C:\Users\User\Documents\of_v0.9.8_vs_release\export\vs\Win32\

@@ -1,5 +1,9 @@
-﻿  Particle2.cpp
-  OpdrLes1.vcxproj -> C:\Users\User\Documents\of_v0.9.8_vs_release\apps\myApps\TimvandenBoomen\OpdrLes1\bin\OpdrLes1_debug.exe
+﻿  main.cpp
+  ofApp.cpp
+  Particle.cpp
+  Particle2.cpp
+     Creating library bin\OpdrLes1_debug.lib and object bin\OpdrLes1_debug.exp
+  OpdrLes1.vcxproj -> C:\Users\User\Documents\GitHub\HEOOP\OpdrLes1\bin\OpdrLes1_debug.exe
   OpdrLes1.vcxproj -> bin\OpdrLes1_debug.pdb (Full PDB)
   
   	                   9	C:\Users\User\Documents\of_v0.9.8_vs_release\export\vs\Win32\
